@@ -1,3 +1,3 @@
-module github.com/kr328/domains2providers
+module v2raydomains2surge
 
 go 1.18

@@ -97,7 +97,7 @@ func New() *Trie {
 
 func (t *Node) dump(list *[]string, parts []string) {
 	if t.children == nil {
-		*list = append(*list, joinDomain(append(parts, "+")))
+		*list = append(*list, joinDomain(append(parts, "")))
 
 		return
 	}
