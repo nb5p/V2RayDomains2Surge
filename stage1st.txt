@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/stage1st
+
+# Behavior: domain-set
+
+.saraba1st.com

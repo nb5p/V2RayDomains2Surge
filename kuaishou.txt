@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kuaishou
+
+# Behavior: domain-set
+
+.adbkwai.com
+.adkwai.com
+.adukwai.com
+.e.kuaishou.cn
+.gifshow.com
+.inkwai.com
+.ksapisrv.com
+.kuaishou.com
+.kuaishouzt.com
+.kwaizt.com
+.kwimgs.com
+.yximgs.com

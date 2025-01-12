@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cabletv
+
+# Behavior: domain-set
+
+.cabletv.com.hk
+.i-cable.com

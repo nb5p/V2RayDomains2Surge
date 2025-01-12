@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-tech-media
+
+# Behavior: domain-set
+
+.thetype.cloud

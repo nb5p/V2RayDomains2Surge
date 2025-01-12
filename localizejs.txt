@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/localizejs
+
+# Behavior: domain-set
+
+.localizecdn.com
+.localizejs.com
+.localizestatus.com

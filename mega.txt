@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mega
+
+# Behavior: domain-set
+
+.mega.co.nz
+.mega.io
+.mega.nz

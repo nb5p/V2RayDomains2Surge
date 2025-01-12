@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/docker
+
+# Behavior: domain-set
+
+.compose-spec.io
+.docker.com
+.docker.io

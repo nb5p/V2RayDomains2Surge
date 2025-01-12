@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kindle
+
+# Behavior: domain-set
+
+.kindle.cn
+.kindleoasis.cn
+.kindleoasis.com.cn

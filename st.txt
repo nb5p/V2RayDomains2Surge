@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/st
+
+# Behavior: domain-set
+
+.st.com
+.stmicroelectronics.com.cn

@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bybit
+
+# Behavior: domain-set
+
+.byapis.com
+.bybit.com
+.bycbe.com
+.bycsi.com
+.bymj.io
+.bytick.com
+bybit-exchange.github.io
+bybit.ada.support
