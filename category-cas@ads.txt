@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-cas
+
+# Behavior: domain-set
+
+.ads.yahoo.com
+.gemini.yahoo.com
+.ysm.yahoo.com

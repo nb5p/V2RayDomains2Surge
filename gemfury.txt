@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gemfury
+
+# Behavior: domain-set
+
+.fury.blog
+.fury.co
+.fury.dev
+.fury.help
+.fury.io
+.gemfury.com

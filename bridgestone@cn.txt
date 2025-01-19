@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bridgestone
+
+# Behavior: domain-set
+
+.bridgestone.cn
+.bridgestone.com.cn
+.nokiantyres.cn

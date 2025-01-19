@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/embedly
+
+# Behavior: domain-set
+
+.embed.ly
+.embedly.com
+.playerjs.io

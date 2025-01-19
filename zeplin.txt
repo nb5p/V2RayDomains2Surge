@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zeplin
+
+# Behavior: domain-set
+
+.zeplin.dev
+.zeplin.io

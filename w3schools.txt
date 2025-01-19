@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/w3schools
+
+# Behavior: domain-set
+
+.w3schools.com
