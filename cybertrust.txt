@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cybertrust
+
+# Behavior: domain-set
+
+.cybertrust.co.jp
+.cybertrust.ne.jp

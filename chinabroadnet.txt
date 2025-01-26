@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chinabroadnet
+
+# Behavior: domain-set
+
+.10099.com.cn
+.ahitv.com
+.chn.cn
+.cqccn.com
+.gcable.com.cn
+.isxtv.com
+.sc96655.com
+.sdgdwljt.com

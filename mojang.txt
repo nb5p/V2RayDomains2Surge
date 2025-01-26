@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mojang
+
+# Behavior: domain-set
+
+.callersbane.com
+.minecraft.net
+.minecraftservices.com
+.minecraftshop.com
+.mojang.com

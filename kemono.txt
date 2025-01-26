@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kemono
+
+# Behavior: domain-set
+
+.cooer.su
+.coomer.party
+.kemono.party
+.kemono.su

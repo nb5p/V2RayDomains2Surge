@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chinaunicom
+
+# Behavior: domain-set
+
+.chinaunicom.com.hk
+.chinaunicomglobal.com
+.cuniq.com
+.speedtest.hk.chinamobile.com
+.speedtestbb.hk.chinamobile.com

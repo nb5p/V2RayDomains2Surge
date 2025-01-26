@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/riot
+
+# Behavior: domain-set
+
+.leagueoflegends.cn
+.lpl.com.cn

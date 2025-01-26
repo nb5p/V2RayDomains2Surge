@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dji
+
+# Behavior: domain-set
+
+.dji.com
+.dji.net
+.djicdn.com
+.djiops.com
+.djiservice.org
+.skypixel.com

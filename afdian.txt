@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/afdian
+
+# Behavior: domain-set
+
+.afdian.net
+.afdiancdn.com

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/actalis
+
+# Behavior: domain-set
+
+.actalis.com
+.actalis.it

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/yy
+
+# Behavior: domain-set
+
+.duowan.com
+.dwstatic.com
+.yy.com
+.yystatic.com

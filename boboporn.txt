@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/boboporn
+
+# Behavior: domain-set
+
+.boboporn.com
+.boboporn.net
+.bobovip.cc
+.sesez.com
