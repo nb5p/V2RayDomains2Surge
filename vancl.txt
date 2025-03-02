@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/vancl
+
+# Behavior: domain-set
+
+.vancl.com
+.vanclimg.com
+.vcimg.com

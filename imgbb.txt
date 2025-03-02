@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/imgbb
+
+# Behavior: domain-set
+
+.ibb.co
+.imgbb.com
+.simgbb.com

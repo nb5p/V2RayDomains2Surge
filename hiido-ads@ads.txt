@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hiido-ads
+
+# Behavior: domain-set
+
+.mlog.hiido.com
+.ylog.hiido.com

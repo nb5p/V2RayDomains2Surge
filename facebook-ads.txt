@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/facebook-ads
+
+# Behavior: domain-set
+
+.analytics.facebook.com
+.pixel.facebook.com

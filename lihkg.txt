@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lihkg
+
+# Behavior: domain-set
+
+.lih.kg
+.lihkg.com

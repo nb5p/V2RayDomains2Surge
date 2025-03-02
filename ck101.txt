@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ck101
+
+# Behavior: domain-set
+
+.ck101.com
+.ckcdn.com
+.ckck.fun

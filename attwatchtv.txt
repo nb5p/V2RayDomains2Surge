@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/attwatchtv
+
+# Behavior: domain-set
+
+.att.tv
+.atttvnow.com
+.attwatchtv.com
+.directv.com
+.dtvce.com
+.nettyinternet.com

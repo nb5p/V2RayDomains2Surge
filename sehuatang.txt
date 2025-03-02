@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sehuatang
+
+# Behavior: domain-set
+
+.sehuatang.net
+.sehuatang.org

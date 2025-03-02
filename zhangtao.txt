@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zhangtao
+
+# Behavior: domain-set
+
+.accuratead.cn
+.dutils.com
+.mob.com

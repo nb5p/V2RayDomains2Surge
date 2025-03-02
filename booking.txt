@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/booking
+
+# Behavior: domain-set
+
+.booking.cn
+.booking.com
+.bstatic.com

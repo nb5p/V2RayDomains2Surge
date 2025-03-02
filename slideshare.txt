@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/slideshare
+
+# Behavior: domain-set
+
+.slideshare.com
+.slideshare.net
+.slidesharecdn.com

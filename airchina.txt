@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/airchina
+
+# Behavior: domain-set
+
+.airchina.com.cn
+.airchinacargo.com

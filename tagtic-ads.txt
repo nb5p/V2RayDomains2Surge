@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tagtic-ads
+
+# Behavior: domain-set
+
+.g1.tagtic.cn
+.xy-log.tagtic.cn

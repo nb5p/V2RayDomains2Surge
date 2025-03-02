@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xueersi
+
+# Behavior: domain-set
+
+.speiyou.com
+.xesimg.com
+.xueersi.com

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/archlinux
+
+# Behavior: domain-set
+
+.archlinux.org
+.archlinuxarm.org

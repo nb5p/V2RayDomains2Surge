@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/javbus
+
+# Behavior: domain-set
+
+.javbus.com
+.javbus22.com
+.javcdn.cc

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lastfm
+
+# Behavior: domain-set
+
+.last.fm
+lastfm.freetls.fastly.net

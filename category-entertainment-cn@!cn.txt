@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-entertainment-cn
+
+# Behavior: domain-set
+
+.bilibili.tv
+.biliintl.com
+.dreamcast.hk
+.iq.com
+upos-hz-mirrorakam.akamaized.net

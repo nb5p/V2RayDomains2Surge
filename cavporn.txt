@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cavporn
+
+# Behavior: domain-set
+
+.cavporn.com
+.cavporn.github.io

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aparat
+
+# Behavior: domain-set
+
+.aparat.com
+.aparatkids.com
+.aparatsport.com

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chinaz
+
+# Behavior: domain-set
+
+.chinaz.com
+.chinaz.net

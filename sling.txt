@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sling
+
+# Behavior: domain-set
+
+.dishworld.com
+.movenetworks.com
+.movetv.com
+.sling.com
+.slinginternational.com

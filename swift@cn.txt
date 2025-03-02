@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/swift
+
+# Behavior: domain-set
+
+.swiftui.cn
+.swiftui.com.cn
