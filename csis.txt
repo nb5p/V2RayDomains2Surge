@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/csis
+
+# Behavior: domain-set
+
+.csis.org
+csis-prod.s3.amazonaws.com

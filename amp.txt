@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/amp
+
+# Behavior: domain-set
+
+.amp.dev
+.ampproject.com
+.ampproject.net
+.ampproject.org
+amp.akamaized.net

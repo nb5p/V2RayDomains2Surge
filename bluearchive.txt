@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bluearchive
+
+# Behavior: domain-set
+
+.bluearchive-cn.com
+.bluearchive.jp
+.bluearchive.nexon.com

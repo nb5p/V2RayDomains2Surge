@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wwe
+
+# Behavior: domain-set
+
+.wwe.com
+.wwe9.com

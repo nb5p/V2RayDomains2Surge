@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/geetest
+
+# Behavior: domain-set
+
+.geetest.com
+geetest.datasink.sensorsdata.cn

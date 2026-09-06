@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jsdelivr
+
+# Behavior: domain-set
+
+.esm.run
+.jsdelivr.com
+.jsdelivr.net

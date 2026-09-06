@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xiaomi-iot
+
+# Behavior: domain-set
+
+.account.xiaomi.com
+.cn-ha.mqtt.io.mi.com
+.ha.api.io.mi.com
+.miot-spec.org

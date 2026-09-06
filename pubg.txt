@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pubg
+
+# Behavior: domain-set
+
+.kraftonde.com
+.playbattlegrounds.com
+.pubg.com
+pubg1.battleye.com

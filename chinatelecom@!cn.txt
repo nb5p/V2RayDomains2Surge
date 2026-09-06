@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chinatelecom
+
+# Behavior: domain-set
+
+.chinatelecomglobal.com
+.chinatelecomhk.com
+.ctexcel.ca
+.ctexcel.com
+.ctexcel.com.hk
+.ctexcel.fr
+.ctexcel.us

@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gateio
+
+# Behavior: domain-set
+
+.gate.com
+.gate.io
+.gate.tv
+.gateapi.io
+.gatedata.org
+.gateimg.com
+.gateio.live
+.gateio.services

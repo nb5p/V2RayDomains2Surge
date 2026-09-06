@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pingsx
+
+# Behavior: domain-set
+
+.ping.sx
+public-us-pingsx.api.clonoth.com

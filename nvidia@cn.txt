@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nvidia
+
+# Behavior: domain-set
+
+.geforce.cn
+.gputechconf.cn
+.nvidia.cn
+cn.download.nvidia.com

@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hinet
+
+# Behavior: domain-set
+
+.cht.com.tw
+.chtf.org.tw
+.emome.net
+.gtlsca.nat.gov.tw
+.hinet.net
+.xuite.net

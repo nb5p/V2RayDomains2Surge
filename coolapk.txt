@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/coolapk
+
+# Behavior: domain-set
+
+.coolapk.com
+.coolapkmarket.com
+.coolapkmarket.net

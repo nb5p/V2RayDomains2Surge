@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/truyen-hentai
+
+# Behavior: domain-set
+
+.truyen-hentai.com
+.truyen-hentai.fr
+.truyen-hentai.ru

@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/thesun
+
+# Behavior: domain-set
+
+.dreamteamfc.com
+.page3.com
+.sunbingo.co.uk
+.talksport.com
+.thescottishsun.co.uk
+.thesun.co.uk
+.thesun.ie

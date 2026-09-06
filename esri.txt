@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/esri
+
+# Behavior: domain-set
+
+.arcgis.com
+.arcgisonline.com
+.esri.com

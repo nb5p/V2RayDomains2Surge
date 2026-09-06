@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zhangtao
+
+# Behavior: domain-set
+
+.accuratead.cn
+.dutils.com
+.hiaiabc.com
+.mob.com
+.mobsdks.com
+.sharesdk.cn
+.tec73.com
+.yksdks.com
