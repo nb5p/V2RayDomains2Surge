@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mihoyo
+
+# Behavior: domain-set
+
+.log-upload-os.hoyoverse.com
+.log-upload.mihoyo.com

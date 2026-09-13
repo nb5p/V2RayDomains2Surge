@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/scenesource
+
+# Behavior: domain-set
+
+.predb.me
+.scenesource.me
+.scnsrc.me

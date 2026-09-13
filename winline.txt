@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/winline
+
+# Behavior: domain-set
+
+.win-line.ru
+.winline.ru
+.winlinebet.ru

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/z3x-team
+
+# Behavior: domain-set
+
+.easy-jtag.com
+.z3x-team.com

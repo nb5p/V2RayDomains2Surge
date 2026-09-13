@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/suruga-ya
+
+# Behavior: domain-set
+
+.suruga-ya.com
+.suruga-ya.jp

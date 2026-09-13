@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dingdatech
+
+# Behavior: domain-set
+
+.diiing.cn
+.dingdachuxing.com
+.dingdatech.com
+.jintdev.com
+.xiangbababus.com

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/realtype
+
+# Behavior: domain-set
+
+.realtype.co.jp
+.realtype.jp

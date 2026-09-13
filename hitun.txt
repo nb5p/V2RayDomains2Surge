@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hitun
+
+# Behavior: domain-set
+
+.hitun.io
+.xn--90wwvt03e.com

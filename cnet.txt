@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cnet
+
+# Behavior: domain-set
+
+.cnet.co.kr
+.cnet.com
+.cnet.de
+.cnetfrance.fr
+.download.com

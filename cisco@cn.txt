@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cisco
+
+# Behavior: domain-set
+
+.cisco.cn
+.cisco.com.cn
+.network-auth.cn
+.webex.com.cn

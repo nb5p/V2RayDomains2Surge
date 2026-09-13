@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tver
+
+# Behavior: domain-set
+
+.dogatch.jp
+.gorin.jp
+.screens-lab.jp
+.tver.co.jp
+.tver.jp

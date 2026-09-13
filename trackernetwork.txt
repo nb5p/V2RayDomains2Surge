@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/trackernetwork
+
+# Behavior: domain-set
+
+.thetrackernetwork.com
+.tracker.gg
+.tracker.network

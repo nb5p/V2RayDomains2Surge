@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/borneoschematics
+
+# Behavior: domain-set
+
+.borneo.world
+.borneoasia.com
+.borneoschematic.com
+.bosharso.net
+.hostborneo.org

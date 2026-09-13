@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bjyouth
+
+# Behavior: domain-set
+
+.bjyouth.gov.cn
+.bjyouth.net
+.sqqnh.cn
+.sqqnh.org

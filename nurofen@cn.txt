@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nurofen
+
+# Behavior: domain-set
+
+.nurofen.cn
+.nurofen.com.cn

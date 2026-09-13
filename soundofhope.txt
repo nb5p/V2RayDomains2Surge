@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/soundofhope
+
+# Behavior: domain-set
+
+.bayvoice.net
+.ozvoice.org
+.sohcradio.com
+.sohfrance.org
+.soundofhope.eu
+.soundofhope.kr
+.soundofhope.org
+.wanokokorosoh.com
