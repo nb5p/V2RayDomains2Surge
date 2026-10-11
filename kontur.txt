@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kontur
+
+# Behavior: domain-set
+
+.kontur-inc.com
+.kontur.host
+.kontur.ru

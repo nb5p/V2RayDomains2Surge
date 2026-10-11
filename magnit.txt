@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/magnit
+
+# Behavior: domain-set
+
+.kazanexpress.ru
+.magnit.com
+.magnit.ru
+.mm.ru

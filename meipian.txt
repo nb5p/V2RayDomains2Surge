@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/meipian
+
+# Behavior: domain-set
+
+.ivwen.com
+.meipian.cn
+.meipian.me

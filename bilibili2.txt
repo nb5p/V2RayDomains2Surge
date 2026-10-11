@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bilibili2
+
+# Behavior: domain-set
+
+.bili2.cc
+.bili888.com
+.bili999.com

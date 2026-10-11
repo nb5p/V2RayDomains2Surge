@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/flowwow
+
+# Behavior: domain-set
+
+.flowwow-images.com
+.flowwow.com

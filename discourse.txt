@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/discourse
+
+# Behavior: domain-set
+
+.discourse-cdn.com
+.discourse.group
+.discourse.org
