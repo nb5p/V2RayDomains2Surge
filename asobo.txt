@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/asobo
+
+# Behavior: domain-set
+
+.asobostudio.com
+.flightsimulator.com
+flightsimulator.azureedge.net

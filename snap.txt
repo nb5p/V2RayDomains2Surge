@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/snap
+
+# Behavior: domain-set
+
+.sc-cdn.net
+.sc-gw.com
+.sc-static.net
+.snap-dev.net
+.snap.com
+.snapads.com
+.snapchat.com
+.snapkit.co
+impala-media-production.s3.amazonaws.com

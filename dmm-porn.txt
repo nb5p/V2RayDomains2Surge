@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dmm-porn
+
+# Behavior: domain-set
+
+.dmm.co.jp
+.dmmrex.com

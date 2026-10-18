@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mit
+
+# Behavior: domain-set
+
+.mit
+.mit.edu
+.mit.net
+.mitpressjournals.org

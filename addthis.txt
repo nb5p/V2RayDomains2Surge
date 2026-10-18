@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/addthis
+
+# Behavior: domain-set
+
+.addthis.com
+.addthiscdn.com
+.addthisedge.com

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/finish
+
+# Behavior: domain-set
+
+.dishwashingexpert.com.cn
+.finish.com.cn

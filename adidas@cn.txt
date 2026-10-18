@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/adidas
+
+# Behavior: domain-set
+
+.adidas.cn
+.adidas.com.cn
+.adidasspecialtysports.cn
