@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mts-ru
+
+# Behavior: domain-set
+
+.a.mts.ru
+.obs.mts.ru

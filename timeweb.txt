@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/timeweb
+
+# Behavior: domain-set
+
+.timeweb.cloud
+.timeweb.com
+.timeweb.tech
+.timewebcloud.kz
+.twcstorage.ru

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/citic
+
+# Behavior: domain-set
+
+.citics.com.hk
+.cncbinternational.com
+.csci.hk
