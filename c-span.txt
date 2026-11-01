@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/c-span
+
+# Behavior: domain-set
+
+.c-span.org
+.c-spanvideo.org

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/vpngate
+
+# Behavior: domain-set
+
+.opengw.net
+.vpngate.jp
+.vpngate.net

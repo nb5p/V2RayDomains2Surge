@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tube8
+
+# Behavior: domain-set
+
+.tube8.com
+.tube8.fr

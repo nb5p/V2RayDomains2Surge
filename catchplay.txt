@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/catchplay
+
+# Behavior: domain-set
+
+.catchplay.com
+.tra-ww000-cp.akamaized.net

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/android
+
+# Behavior: domain-set
+
+.android
+.android.com
+.androidify.com
+android.googlesource.com

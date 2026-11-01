@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gucci
+
+# Behavior: domain-set
+
+.chimeforchange.org
+.gucci
+.gucci.cn
+.gucci.com
+.guccimuseo.com
+.guccitimeless.com
+.regiongold.com

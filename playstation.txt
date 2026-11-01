@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/playstation
+
+# Behavior: domain-set
+
+.playstation
+.playstation.com
+.playstation.net
+.playstationnetwork.com
+.sonyentertainmentnetwork.com

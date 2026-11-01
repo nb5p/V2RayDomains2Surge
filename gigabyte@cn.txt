@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gigabyte
+
+# Behavior: domain-set
+
+.aoruszone.cn
+.gigabyte.cn

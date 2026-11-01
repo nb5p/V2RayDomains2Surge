@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/scp
+
+# Behavior: domain-set
+
+.scp-wiki.net
+.scpdb.org
+.scpwiki.com

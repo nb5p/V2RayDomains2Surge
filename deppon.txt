@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/deppon
+
+# Behavior: domain-set
+
+.deppon.com
+.deppon.com.cn
+.dpma.cc

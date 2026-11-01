@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kemono
+
+# Behavior: domain-set
+
+.kemono.cr
+.kemono.party
+.kemono.su

@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hisense
+
+# Behavior: domain-set
+
+.hisense-home.com
+.hisense.com
+.hisensehitachi.com
+.hisensekf.com
+.hismarttv.com
+.juhaokan.org

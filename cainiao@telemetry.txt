@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cainiao
+
+# Behavior: domain-set
+
+.v6-adashx.ut.cainiao.com

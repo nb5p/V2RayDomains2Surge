@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/books
+
+# Behavior: domain-set
+
+.book.com.tw
+.books.com.tw

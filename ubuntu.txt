@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ubuntu
+
+# Behavior: domain-set
+
+.ubuntu-touch.io
+.ubuntu.com
+.ubuntu.net
+.ubuntuforums.org

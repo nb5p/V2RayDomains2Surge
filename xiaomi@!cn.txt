@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xiaomi
+
+# Behavior: domain-set
+
+.c.mi.com
+.global.market.xiaomi.com

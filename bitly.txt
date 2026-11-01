@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bitly
+
+# Behavior: domain-set
+
+.bit.ly
+.bitly.com
+.bitly.is

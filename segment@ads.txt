@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/segment
+
+# Behavior: domain-set
+
+.segment.com
+.segment.io
+.segmenthub.com
+.segmentify.com
