@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/organicmaps
+
+# Behavior: domain-set
+
+.omaps.app
+.organicmaps.app

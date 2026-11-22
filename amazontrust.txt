@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/amazontrust
+
+# Behavior: domain-set
+
+.amazontrust.com
+.awstrust.com
+.ss2.us

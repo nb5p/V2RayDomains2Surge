@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/douban
+
+# Behavior: domain-set
+
+.douban.com
+.douban.fm
+.doubanio.com

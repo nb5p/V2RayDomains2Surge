@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cnbc
+
+# Behavior: domain-set
+
+.cnbc.com
+.cnbccouncils.com
+.cnbcfm.com

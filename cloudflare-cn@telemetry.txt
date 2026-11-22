@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cloudflare-cn
+
+# Behavior: domain-set
+
+.cloudflareinsights-cn.com

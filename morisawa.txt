@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/morisawa
+
+# Behavior: domain-set
+
+.morisawa.co.jp
+.typesquare.com

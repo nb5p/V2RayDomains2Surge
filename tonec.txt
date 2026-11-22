@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tonec
+
+# Behavior: domain-set
+
+.internetdownloadmanager.com
+.registeridm.com
+.tonec.com

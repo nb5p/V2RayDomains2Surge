@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/haveibeenpwned
+
+# Behavior: domain-set
+
+.haveibeenpwned.com
+.pwnedpasswords.com

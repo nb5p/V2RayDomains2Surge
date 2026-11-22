@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/teamspeak
+
+# Behavior: domain-set
+
+.myteamspeak.com
+.teamspeak-services.com
+.teamspeak.com

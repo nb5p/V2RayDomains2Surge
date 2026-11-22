@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/boylove
+
+# Behavior: domain-set
+
+.boylove.cc
+.boylove.live
+.boylove1.cc
+.boyloves.cc
+.fuhouse.club

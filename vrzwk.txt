@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/vrzwk
+
+# Behavior: domain-set
+
+.vrzwk.cn
+.vrzwk.com
+.vrzwk.net
+.vrzwk.top

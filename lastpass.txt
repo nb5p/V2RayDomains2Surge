@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lastpass
+
+# Behavior: domain-set
+
+.lastpass.com
+.lastpass.eu
+.lputil.com

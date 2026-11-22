@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zhihu
+
+# Behavior: domain-set
+
+.crash2.zhihu.com
+.zhihu-web-analytics.zhihu.com

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/windsurf
+
+# Behavior: domain-set
+
+.codeium.com
+.codeiumdata.com
+.windsurf.build
+.windsurf.com

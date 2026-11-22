@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-speedtest
+
+# Behavior: domain-set
+
+hk-global-bgp.hkg.speedtest.yecaoyun.com

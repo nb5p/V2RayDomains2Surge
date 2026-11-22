@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/baishancloud
+
+# Behavior: domain-set
+
+.baishan.com
+.baishancdnx.cn
+.baishancloud.com
+.bsclink.cn
+.qingcdn.com
+.saxyit.com
+.trpcdn.com
+.trpcdn.net
+.yundun.com

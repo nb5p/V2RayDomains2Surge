@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/webflow
+
+# Behavior: domain-set
+
+.webflow-ext.com
+.webflow.com
+.webflow.io
+.website-files.com

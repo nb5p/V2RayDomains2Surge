@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/momo
+
+# Behavior: domain-set
+
+.momo.dm
+.momo5188.com
+.momomall.com.tw
+.momoshop.com.tw

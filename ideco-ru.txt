@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ideco-ru
+
+# Behavior: domain-set
+
+.ideco.dev
+.ideco.ru
+.idecosoftware.ru
